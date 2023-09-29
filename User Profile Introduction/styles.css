@@ -1,0 +1,21 @@
+.header-title {
+  text-align: center;
+}
+
+.section-hobbies,
+.section-languages {
+  background-color: green;
+  color: white;
+}
+
+.section-title {
+  font-family: Arial;
+}
+
+.list-item {
+  color: cyan;
+}
+
+.crossed-item {
+  text-decoration: line-through;
+}
