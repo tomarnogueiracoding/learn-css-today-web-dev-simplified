@@ -2,8 +2,7 @@
   text-align: center;
 }
 
-.section-hobbies,
-.section-languages {
+.green-section {
   background-color: green;
   color: white;
 }
@@ -12,7 +11,7 @@
   font-family: Arial;
 }
 
-.list-item {
+.cyan-list-item {
   color: cyan;
 }
 
